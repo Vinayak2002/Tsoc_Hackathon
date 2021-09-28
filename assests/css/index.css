@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=PT+Sans&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    /* box-sizing: border-box; */
+}
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+body > * {
+    flex-shrink: 0;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'PT Sans', sans-serif;
+}
+.text-center {
+    width: 100%;
+}
+.navbar-brand{
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.nav-link {
+    font-size: 1.5em;
+}
+
+.card-text {
+    font-size: 1.5em;
+}
+
+.btn {
+    font-size: 1.5em;
+}
+
+.col {
+    margin-top: 100px;
+    margin-bottom: 300px;
+}
+
+
+
+

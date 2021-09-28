@@ -1,0 +1,40 @@
+.container {
+    margin-top: 2em;
+    background-color: rgb(200, 218, 159);
+    padding: 1em;
+    border-radius: 10px;
+}
+
+label {
+    width: 200px;
+    font-size: 1.1em;
+}
+
+.btn-box {
+    width: 100%;
+}
+
+#btn-page-1 {
+    background-color:rgb(107, 211, 107);
+    border: solid;
+    border-radius: 10px;
+    font-size: 1.1em;
+    margin-top: 2em;
+    padding:0.2em 1em;
+}
+#btn-page-2 {
+    background-color:rgb(107, 211, 107);
+    border: solid;
+    border-radius: 10px;
+    font-size: 1.1em;
+    margin-top: 2em;
+    padding:0.2em 1em;
+}
+#btn-page-3 {
+    background-color:rgb(107, 211, 107);
+    border: solid;
+    border-radius: 10px;
+    font-size: 1.1em;
+    margin-top: 2em;
+    padding:0.2em 1em;
+}
