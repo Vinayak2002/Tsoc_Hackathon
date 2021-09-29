@@ -24,5 +24,10 @@ To Deploy on your own machine after downloading the zip.
   - PORT alters location of local server which will run on localhost:$PORT$
   - MONGO_URI is the location of your database on mongoATLAS.
 
+### Sample Image 
+![](sample/p1.png)
+![](sample/p2.png)
+![](sample/p3.png)
+![](sample/p4.png)
 
 
