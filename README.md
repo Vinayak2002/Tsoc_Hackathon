@@ -10,12 +10,11 @@ _Admins with their passwords and usernames are able to log in and view the data 
 - [ ] Deployment on Heroku 
 
 #### Instructions:
-To Deply on your own machine after downloading the zip.
+To Deploy on your own machine after downloading the zip.
 1. run ''' npm install '''
 2. Edit the variables in config.env
   - PORT alters location of local server which will run on localhost:$PORT$
   - MONGO_URI is the location of your database on mongoATLAS.
 
-####SAMPLE IMAGES
 
 
